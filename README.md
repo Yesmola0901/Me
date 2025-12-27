@@ -10,9 +10,9 @@ This is a personal website created for the frontend development assignment. It i
 
 ## Deployed Website
 You can view the live website here: 
-**[INSERT YOUR GITHUB PAGES URL HERE]**
-*(Example: https://your-username.github.io/repo-name/)*
+https://yesmola0901.github.io/Me/
 
 ## How to Run Locally
 1. Clone the repository.
 2. Open `index.html` in your browser.
+
